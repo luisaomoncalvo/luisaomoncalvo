@@ -51,7 +51,7 @@ My [AI PM Toolkit](https://github.com/luisaomoncalvo/ai-pm-toolkit) is public �
 Senior PM / Head of Product roles in **fintech, payments, or embedded finance**.
 Preferably remote or LATAM/Europe-based. Open to scale-ups and growth-stage companies.
 
-📩 luismoncalvo@gmail.com · [LinkedIn](https://linkedin.com/in/luismoncalvo)
+📩 luismoncalvo@gmail.com · [LinkedIn](https://www.linkedin.com/in/luis-moncalvo-gastambide-2b8b7aa6/)
 
 ---
 
