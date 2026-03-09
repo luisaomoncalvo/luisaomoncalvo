@@ -30,11 +30,31 @@ My [AI PM Toolkit](https://github.com/luisaomoncalvo/ai-pm-toolkit) is public â€
 
 ---
 
-## Domain expertise
+## PM Skills
 
-`Digital Payments` `Pay-ins / Pay-outs` `Open Banking` `KYC/KYB` `API Products`
-`E-commerce Integration` `Merchant Onboarding` `Embedded Finance` `LATAM Fintech`
-`OKRs` `Roadmapping` `User Research` `B2B & B2C`
+**Product Discovery**
+`Brainstorming` `Assumption Mapping` `Value / Usability / Viability / Feasibility` `Opportunity Solution Trees` `Customer Interviews` `Transcript Analysis` `Feature Request Prioritization` `Impact Ã— Risk Matrix`
+
+**Product Strategy**
+`Product Strategy Canvas` `Startup Canvas` `JTBD` `Business Model Canvas` `Lean Canvas` `Monetization & Pricing` `SWOT` `PESTLE` `Porter's Five Forces` `Ansoff Matrix` `Value Proposition Design`
+
+**Execution**
+`PRD Writing` `OKRs` `Outcome-based Roadmaps` `Sprint Planning` `Retrospectives` `Release Notes` `Pre-mortems` `Risk Classification` `Stakeholder Mapping` `User Stories` `Job Stories` `Test Scenarios` `Prioritization Frameworks`
+
+**Market Research**
+`User Personas` `Customer Segmentation` `Customer Journey Mapping` `Market Sizing (TAM/SAM/SOM)` `Competitive Analysis` `Sentiment Analysis`
+
+**Data & Analytics**
+`SQL` `Cohort Analysis` `A/B Testing` `BigQuery` `PostgreSQL` `Mixpanel`
+
+**Go-to-Market**
+`GTM Strategy` `Beachhead Segments` `Ideal Customer Profiles (ICP)` `Growth Loops` `Flywheel Design` `Competitive Battlecards`
+
+**Marketing & Growth**
+`Product Positioning` `Value Proposition Statements` `North Star Metric` `Growth Strategy` `Product Naming`
+
+**Domain expertise**
+`Digital Payments` `Pay-ins / Pay-outs` `Open Banking` `KYC/KYB` `API Products` `E-commerce Integration` `Merchant Onboarding` `Embedded Finance` `LATAM Fintech` `B2B & B2C`
 
 ---
 
