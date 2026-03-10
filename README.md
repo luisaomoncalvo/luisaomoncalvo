@@ -26,7 +26,9 @@ I practice **Spec-Driven Development** — writing detailed product specs that a
 - **Analytics:** Mixpanel, SQL, custom dashboards
 - **Delivery:** Jira, GitHub, API-first thinking
 
-My [AI PM Toolkit](https://github.com/luisaomoncalvo/ai-pm-toolkit) is public — prompts, workflows, and templates I use daily.
+My tools are public:
+- [AI PM Toolkit](https://github.com/luisaomoncalvo/ai-pm-toolkit) — prompts, workflows, and templates I use daily
+- [PM Agents Marketplace](https://github.com/luisaomoncalvo/pm-agents-marketplace) — AI agents, sub-agents, skills & workflows for senior PMs (built for Claude Code)
 
 ---
 
